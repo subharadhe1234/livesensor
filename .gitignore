@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-.ML_progect/
+#.ML_progect/
 # Distribution / packaging
 .Python
 build/
